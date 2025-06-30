@@ -1,4 +1,4 @@
-# CO-Product-Card
+# CL-Ping-Library
 
 Este es un paquete de pruebas de despliegue en NPM
 
