@@ -65,5 +65,15 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.8.1",
     "typescript": "^5.8.3"
-  }
+  },
+  "repository": {
+    "url": "https://github.com/xexe45/react-ping-library",
+    "type": "git"
+  },
+  "keywords": [
+    "ping",
+    "identity",
+    "cesar",
+    "lachira"
+  ]
 }
